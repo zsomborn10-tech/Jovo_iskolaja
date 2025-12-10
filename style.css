@@ -1,28 +1,27 @@
-body{
-    background-color:wheat;
+body {
+  background-color: wheat;
 }
 
 #tarolo {
- background-color: lightblue;
-color: black;
-width: 80%;
-max-width: 800px;
-margin: auto;
-padding: 10px;
+  background-color: lightblue;
+  color: black;
+  width: 80%;
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
 }
 
+#menu a {
+  color: aliceblue;
+  text-decoration: none;
+  border: 1px solid blue;
+  padding: 5px 10px 5px 10px;
+  margin: 10px;
+  background-color: red;
+  border-radius: 10px;
+}
 
-#menu a{
-    color: aliceblue;
-    text-decoration: none;
-    border: 1px solid blue;
-    padding: 5px 10px 5px 10px;
-    margin: 10px;
-    background-color: red;
-    border-radius: 10px;
-    }
-
-#menu a:hover{
-color: chocolate;
-background-color: yellowgreen
+#menu a:hover {
+  color: chocolate;
+  background-color: yellowgreen;
 }
